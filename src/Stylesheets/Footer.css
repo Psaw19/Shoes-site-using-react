@@ -1,0 +1,17 @@
+#foot{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(252, 255, 216);
+}
+
+#foot ul{
+    /* background-color: aquamarine; */
+    width: 50vw;
+    justify-content: space-evenly;
+}
+
+#foot ul li{
+    font-size: large;
+    /* background-color: bisque; */
+    padding: 1vw;
+}

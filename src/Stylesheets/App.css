@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.cards{
+    /* border: 1px solid black; */
+    padding: 2vw;
+}
+
+.disp{
+    display: grid;
+    /* border: 5px solid blue; */
+    grid-template-columns: auto auto auto;
+    row-gap: 2%;
+    justify-content: space-evenly;
+}
+
+@media screen and (max-width:1100px){
+    .disp{
+        grid-template-columns: auto auto;
+    }
+}
+
+@media screen and (max-width:600px){
+    .disp{
+        grid-template-columns:auto;
+    }
+}

@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(186, 242, 216);
+    padding: 1%;
+    font-size: 2.5rem;
+    font-weight: 300;
+    color: rgb(132, 124, 124);
+}
