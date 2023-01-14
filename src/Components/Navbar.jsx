@@ -5,7 +5,7 @@ function Navbar(){
     return(
         <>
         <div className="nav">
-            <a id="logodiv">
+            <a id="logodiv" href="https://www.myntra.com/men-footwear">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo86V8DNn7gB518n86LA5ZOlx9XMzMQ07TlSllBTah0LPx2XurX-9oCBYhmjJFceNyb3Y&usqp=CAU" alt="logo" id="logo">
 
                 </img>
